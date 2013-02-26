@@ -1,0 +1,3 @@
+SYSLOGNG_PID="/var/run/syslog-ng.pid"
+SYSLOGNG_OPTIONS="-p $SYSLOGNG_PID"
+SYSLOGNG_COMPAT_PID="/var/run/syslogd.pid"
